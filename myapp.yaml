@@ -1,0 +1,5 @@
+my:
+  greeting: "Hello myapp from repo"
+app:
+  name: "My app"
+  desc:  "Welcome to ${app.name}"
