@@ -1,5 +1,7 @@
 my:
-  greeting: "Hello myapp from repo"
+  greeting: "Hello myapp from repo refreshed"
 app:
   name: "My app"
   desc:  "Welcome to ${app.name}"
+db:
+  connection: "i am also updated"
