@@ -5,3 +5,6 @@ app:
   desc:  "Welcome to ${app.name}"
 db:
   connection: "i am also updated again"
+spring:
+  profiles:
+    active: "test"
