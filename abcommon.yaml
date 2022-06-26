@@ -1,0 +1,6 @@
+my:
+  greeting: "Hello world from a and b common repo"
+db:
+  connection: "common connection"
+  user: "common user"
+  password: "common password"

@@ -1,5 +1,0 @@
-my:
-  greeting: "Hello world from common repo"
-app:
-  name: "My app"
-  desc:  "Welcome to ${app.name}"

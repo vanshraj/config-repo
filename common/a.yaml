@@ -1,3 +1,0 @@
-app:
-  name: "A module"
-  desc:  "Welcome to ${app.name}"
