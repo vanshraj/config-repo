@@ -1,0 +1,3 @@
+app:
+  name: " B module"
+  desc:  "Welcome to ${app.name}"

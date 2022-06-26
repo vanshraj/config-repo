@@ -3,3 +3,4 @@ my:
 app:
   name: "My app"
   desc:  "Welcome to ${app.name}"
+something: "nowhere and everywhere"
